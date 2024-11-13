@@ -1,3 +1,3 @@
 # Demo
 This is my first Git repository while the learning process.
-Author - Muhammad Nabeel Mehmood
+Author - M.Nabeel Mehmood
